@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-theeye-dev-161615-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382812374:role/amplify-theeye-dev-161615-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382812374:role/amplify-theeye-dev-161615-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-theeye-dev-161615-deployment",
+      "UnauthRoleName": "amplify-theeye-dev-161615-unauthRole",
+      "StackName": "amplify-theeye-dev-161615",
+      "StackId": "arn:aws:cloudformation:eu-central-1:992382812374:stack/amplify-theeye-dev-161615/17003880-e532-11ee-a5b9-02097f0d4ae7",
+      "AmplifyAppId": "dbbtysbxxr0x1"
+    },
+    "categories": {
+      "auth": {
+        "theeye6106edbb": {}
+      },
+      "api": {
+        "theeye": {}
+      },
+      "storage": {
+        "s3buckk": {}
+      }
+    }
+  }
+}

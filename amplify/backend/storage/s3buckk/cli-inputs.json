@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3buckk",
+  "policyUUID": "0eddcebc",
+  "bucketName": "theeyee",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
